@@ -1,6 +1,8 @@
 using System.Collections.Concurrent;
 using DotNetNakamaServer;
 
+namespace DotNetNakamaServer.Matchmaking;
+
 public class MatchmakingQueue
 {
     private readonly string _gameMode;

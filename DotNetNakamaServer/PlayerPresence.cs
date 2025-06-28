@@ -1,4 +1,6 @@
-﻿namespace DotNetNakamaServer;
+using DotNetNakamaServer.NetworkTransport;
+
+namespace DotNetNakamaServer;
 
 public class PlayerPresence
 {

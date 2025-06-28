@@ -1,3 +1,5 @@
+namespace DotNetNakamaServer.Matchmaking;
+
 public class GameModeConfig
 {
     public string GameMode { get; set; }

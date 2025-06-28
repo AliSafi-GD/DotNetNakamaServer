@@ -1,4 +1,4 @@
-using DotNetNakamaServer;
+namespace DotNetNakamaServer.NetworkTransport;
 
 public static class NetworkTransportFactory
 {

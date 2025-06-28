@@ -1,7 +1,7 @@
-﻿using LiteNetLib;
+using LiteNetLib;
 using LiteNetLib.Utils;
 
-namespace DotNetNakamaServer;
+namespace DotNetNakamaServer.NetworkTransport;
 
 public class LiteNetLibTransport : INetworkTransport
 {

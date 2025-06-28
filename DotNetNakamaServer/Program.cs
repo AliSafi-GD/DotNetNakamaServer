@@ -1,4 +1,7 @@
-﻿using DotNetNakamaServer;
+using DotNetNakamaServer.Matchmaking;
+using DotNetNakamaServer.NetworkTransport;
+
+namespace DotNetNakamaServer;
 
 class Program
 {
