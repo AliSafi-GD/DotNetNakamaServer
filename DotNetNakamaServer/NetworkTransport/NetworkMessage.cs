@@ -1,4 +1,4 @@
-﻿namespace DotNetNakamaServer;
+namespace DotNetNakamaServer.NetworkTransport;
 
 public class NetworkMessage
 {

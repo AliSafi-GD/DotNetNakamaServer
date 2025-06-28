@@ -1,3 +1,5 @@
+namespace DotNetNakamaServer.Matchmaking;
+
 public class MatchmakingResult
 {
     public bool Success { get; set; }

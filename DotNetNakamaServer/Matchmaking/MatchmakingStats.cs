@@ -1,3 +1,5 @@
+namespace DotNetNakamaServer.Matchmaking;
+
 public class MatchmakingStats
 {
     public int TotalPlayersInQueue { get; set; }
